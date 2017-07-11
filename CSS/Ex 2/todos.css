@@ -1,0 +1,9 @@
+body {
+	background: orange;
+}
+#special{
+	background: pink
+}
+.completed{
+	text-decoration: line-through;
+}
