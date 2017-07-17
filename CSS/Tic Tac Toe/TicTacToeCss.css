@@ -1,6 +1,5 @@
 table{
-	border: 2px orange dashed;
-	margin 50% 50%;
+	margin: auto;
 }
 h1{
 	text-align: center;
@@ -10,4 +9,12 @@ td{
 	height: 100px;
 	//background: red;
 
+}
+.vert{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.horiz{
+	border-bottom: 1px solid black;
+	border-top: 1px solid	black;
 }

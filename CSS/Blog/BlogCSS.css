@@ -1,0 +1,23 @@
+
+h3{
+	color:blue;
+	text-transform: uppercase;
+	font-size: .150rem;
+}
+body{
+	border: 20px gray solid;
+	padding: 20px;
+	width: 700px;
+	margin: 20px auto;
+	font-family: sans-serif;
+}
+.seperate{
+	border-left: 5px grey solid;
+	padding-left: 15px;
+}
+h3{
+	font-size: 2.0rem;
+}
+.post{
+	margin-bottom: 20px;
+}
