@@ -1,6 +1,9 @@
 body{
 	background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Cat-Wallpaper-pictures-background.jpg);
 	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+
 }
 
 
@@ -8,4 +11,22 @@ body{
 	text-align: center;
 	padding-top: 25%;
 
+}
+h1, h3{
+	color: white;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+html {
+	height: 100%;
+}
+
+hr{
+	width: 400px;
+	border-top: 1 px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,0.2);
 }
